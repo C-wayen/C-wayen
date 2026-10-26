@@ -47,7 +47,7 @@
 
 <br><br>
 
-**🎨 前端 & 多媒体**
+**🎨 前端**
 <br><br>
 <img src="https://skillicons.dev/icons?i=vue,react,js,html,css&theme=dark&perline=5" />
 
